@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3ek045/jc/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷柏散治臟毒便血卷柏生石上高四五寸根黃如絲上有黃點焙乾黃耆鹽水浸炒各等分上為細末每服五錢空心米飲調下
+  hash: sha256:3406e1631a677e5827b3ee8ff9bb421ea9bcac3dccf4c86c30f494d83f8cbaf7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ek045_jc_NaN-d13.d139.h1s1}
+  - {type: 'tls:div-end', offset: 50, content: '', id: KR3ek045_jc_000-d13d139}
+  - {type: 'tls:div-start', offset: 50, content: '', id: KR3ek045_jc_000-d13d140, level: 2, head_text: 寒水石散}
+metadata:
+  title: 外科理例
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek045.xml
+hash: sha256:33b8bb760880c93b3eb8d03a80879eef64e658a76d1da6c667ac2fc5cf164113
