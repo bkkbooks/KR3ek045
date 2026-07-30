@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3ek045_001-jc.yaml, hash: 'sha256:d4cd48528a308c49d296fe055f2b78027875d7dc7ba392453495e39eb69eaa0a'}
+  - {seq: 1, filename: KR3ek045_001-jc.yaml, hash: 'sha256:66ce3ae8690092f93fdc2d56e3e6af41e596593ff6e1bd0e0abf9d52ee305d79'}
   - {seq: 2, filename: KR3ek045_002-jc.yaml, hash: 'sha256:e5b789b7ce1ca9a7d67ed0e0443cf7f6087d1c3f2f2649f272559d3bb10ce83f'}
   - {seq: 3, filename: KR3ek045_003-jc.yaml, hash: 'sha256:e3eb8b484ff181e59e80e5691ca0f3131a6faff3e28b6bc8effdf2c48afd063c'}
   - {seq: 4, filename: KR3ek045_004-jc.yaml, hash: 'sha256:f1d74de649507aced74ad5f5747235038e5ff2c64fd0940ad4634cf650eb2fc7'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 10, filename: KR3ek045_010-jc.yaml, hash: 'sha256:33b8bb760880c93b3eb8d03a80879eef64e658a76d1da6c667ac2fc5cf164113'}
   - {seq: 11, filename: KR3ek045_011-jc.yaml, hash: 'sha256:b8f584f0ff7787ae49903bfc3edbc4b4689df8588e48a8e6e8e5b09ce8fab6b1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ek045_001-jc.markers.yaml, hash: 'sha256:be517c95db870d992a77fcb12982f6b20ef7a9b2295b50324bf8ad512c93890d'}
+  - {seq: 1, role: markers, filename: assets/KR3ek045_001-jc.markers.yaml, hash: 'sha256:b8579b6bf71157794008440e1ea4fe3e2714d023e039ffd75a8d3bf5f4b9c5e0'}
   - {seq: 2, role: markers, filename: assets/KR3ek045_002-jc.markers.yaml, hash: 'sha256:791cfe83602b45f0cace69dc6dc9b1ccc511c168f9dc2c286a0e2f0670a8a710'}
   - {seq: 3, role: markers, filename: assets/KR3ek045_003-jc.markers.yaml, hash: 'sha256:b41f3e4e200fdb00ae0fb9cd3f678adab0eecd83042fb19f847ba5a5fa7a6b01'}
   - {seq: 4, role: markers, filename: assets/KR3ek045_004-jc.markers.yaml, hash: 'sha256:39410e6600c9e04f686e240a3864bfc1f78ca82e5425a50d2276f4cce4720f05'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ek045_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 312
   label: 前序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ek045_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 312
     - 639
   label: 序
@@ -66,8 +66,8 @@ table_of_contents:
     marker_id: KR3ek045_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 570
+    - 639
+    - 1209
   label: 石山先生自贊
   type: section
   level: 1
@@ -4361,4 +4361,4 @@ table_of_contents:
   label: 復元通氣散
   type: section
   level: 2
-hash: sha256:26c96e5211e90896181baa7bebe236d27af24ece71dee6736435ddb99157cf6c
+hash: sha256:767eb2c8b5397061b8b90a503f9cec387a9b5f6c55966d187c2975127c49e4d5

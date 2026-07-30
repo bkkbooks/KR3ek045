@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ek045_001.yaml, hash: 'sha256:b9464369b687f3610351c2bb0a706494e6801afbafcc835256d67bccbbc8acd3'}
+  - {seq: 1, filename: KR3ek045_001.yaml, hash: 'sha256:abfa971d22a35816735da9ec33f3775415707aac1c242f972d36a107acca0414'}
   - {seq: 2, filename: KR3ek045_002.yaml, hash: 'sha256:36d4aade7bc42065281e6db8eb6b08f0c168047398ddee53092e252c882c6b0a'}
   - {seq: 3, filename: KR3ek045_003.yaml, hash: 'sha256:1c561574f8871b374a265c5818569d1a5dfeecf768d4996bd1243daf566a98d9'}
   - {seq: 4, filename: KR3ek045_004.yaml, hash: 'sha256:8c1dc37e023330282e3f82035ca85ee3d4cd4c481dfbaf405ce394f92011d450'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 10, filename: KR3ek045_010.yaml, hash: 'sha256:33b8bb760880c93b3eb8d03a80879eef64e658a76d1da6c667ac2fc5cf164113'}
   - {seq: 11, filename: KR3ek045_011.yaml, hash: 'sha256:88f7074526f69079838914cced3e3bc70ae981a021c242a9e945ac9486e734e3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ek045_001.markers.yaml, hash: 'sha256:8875407e79dcfe3eb49ed32bd22d6b083d39df9a09d7a99303d58e8c229f64c3'}
+  - {seq: 1, role: markers, filename: assets/KR3ek045_001.markers.yaml, hash: 'sha256:2b1533df021cb9999fbd2c0492ba58d5405ee7023a37806edb0b362359277c86'}
   - {seq: 2, role: markers, filename: assets/KR3ek045_002.markers.yaml, hash: 'sha256:fc48719f8ad68f3bb9d29b87ef1730921798b918419b197571bd9d1ef3ee6567'}
   - {seq: 3, role: markers, filename: assets/KR3ek045_003.markers.yaml, hash: 'sha256:f9ff370835a94f70346ff3b18690e001f83be8334288052ba6cc5a050b90e047'}
   - {seq: 4, role: markers, filename: assets/KR3ek045_004.markers.yaml, hash: 'sha256:7297c742d30c899cbdaa930de0e6f630c447ff825347bedbb120057f0c8f4514'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ek045_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 312
   label: 前序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3ek045_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 312
     - 639
   label: 序
@@ -66,8 +66,8 @@ table_of_contents:
     marker_id: KR3ek045_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 570
+    - 639
+    - 1209
   label: 石山先生自贊
   type: section
   level: 1
@@ -4361,7 +4361,7 @@ table_of_contents:
   label: 復元通氣散
   type: section
   level: 2
-hash: sha256:4caf215c40c999bf640eb600122eca8ea0397655316d9b5b4938aa91e1dd0cbc
+hash: sha256:389ce1bfb2aca63408703275f1dd813c3d5de049209f6736cff7355f23ff822c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
